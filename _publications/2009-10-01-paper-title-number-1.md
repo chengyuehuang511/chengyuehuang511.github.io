@@ -1,7 +1,7 @@
 ---
 title: " Adversarial and Implicit Modality Imputation with Applications to Depression Early Detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/AIMI-camera-ready
 excerpt: ''
 date: 2022-08
 venue: 'CAAI International Conference on Artificial Intelligence (CICAI)'
