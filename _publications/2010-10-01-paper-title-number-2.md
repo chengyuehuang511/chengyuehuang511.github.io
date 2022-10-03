@@ -3,7 +3,7 @@ title: "From Local to Global: Spectral-Inspired Graph Neural Networks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2022-09
+date: 2022-09-24
 venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2209.12054'
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
