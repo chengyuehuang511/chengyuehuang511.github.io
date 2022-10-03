@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the pdf version here.](https://github.com/chengyuehuang511/chengyuehuang511.github.io/blob/master/files/Chengyue_Huang_CV.pdf)
+[Download the pdf version here.](https://chengyuehuang511.github.io/Chengyue_Huang_CV.pdf)
 
 Education
 ======
