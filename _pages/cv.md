@@ -32,6 +32,12 @@ Research experience
   * Duties included: Resolved the modality-missing issue by proposing an implicit imputation method (AIMI) with multi-modal representation learning via auto-encoding, clustering based on CPM-Net, adversarial networks and a feedback loop.
   * Supervisor: [Professor Hongteng Xu](https://hongtengxu.github.io/), [Professor Hailun Liang](https://scholar.google.com/citations?user=G1iOLJQAAAAJ&hl=en)
   
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Python
@@ -43,12 +49,6 @@ Skills
 * R
 * LaTeX
 * SQL
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 <!-- Talks
 ======
