@@ -18,6 +18,7 @@ I am currently seeking for Ph.D. positions in these interdisciplinary fields. Yo
 News
 ======
 - I gave a talk about my summer research at Structured Data Science Lab, GSAI, RUC.
-<!-- - Our paper "From Local to Global: Spectral-Inspired Graph Neural Networks" was submitted to NeurIPS 2022 Workshop GLFrontiers. -->
 - I became a remote research assistant at AMS, JHU.
 - Our paper "Adversarial and Implicit Modality Imputation with Applications to Depression Early Detection" was accepted by CAAI International Conference on Artificial Intelligence (CICAI), 2022.
+
+<!-- - Our paper "From Local to Global: Spectral-Inspired Graph Neural Networks" was submitted to NeurIPS 2022 Workshop GLFrontiers. -->
