@@ -18,7 +18,7 @@ I am currently seeking for Ph.D. positions in these interdisciplinary fields. Yo
 News
 ======
 - Our paper "From Local to Global: Spectral-Inspired Graph Neural Networks" was accepted by NeurIPS 2022 GLFrontiers Workshop.
-- I gave a talk about my summer research at Structured Data Science Lab, GSAI, RUC. [slides](https://chengyuehuang511.github.io/files/spectral_inspired_gnn_pre.pdf)
+- I gave a talk about my summer research at Structured Data Science Lab, GSAI, RUC. [[slides]](https://chengyuehuang511.github.io/files/spectral_inspired_gnn_pre.pdf)
 - I attended the 2022 CAAI International Conference on Artificial Intelligence (CICAI) in Beijing and presented our [poster](https://chengyuehuang511.github.io/files/poster.pdf).
 - I became a remote research assistant at AMS, JHU.
 - Our paper "Adversarial and Implicit Modality Imputation with Applications to Depression Early Detection" was accepted by CAAI International Conference on Artificial Intelligence (CICAI), 2022.
