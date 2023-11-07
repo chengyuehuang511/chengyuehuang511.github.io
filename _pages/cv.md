@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Machine Learning, Georgia Institute of Technology, 2023 - Present
+  * Advised by Professor [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/)
 * B.S. in Statistics, Renmin University of China, 2019 - 2023
 
 Internships
@@ -31,14 +32,14 @@ Research experience
   * Advisors: Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/), Applied scientist [Da Zheng](https://zheng-da.github.io/), Ph.D. student [Ningyuan (Teresa) Huang](https://nhuang37.github.io/)
 
 * Spring 2022: Member
-  * [School of Statistics, Renmin University of China](http://stat.ruc.edu.cn/Home/index.htm)
+  * School of Statistics, Renmin University of China
   * Duties included: Improved the fusion process of 3 modalities (visual, acoustic, and textual) based on cross-modality attention mechanism, explored how information interchange on various modalities reflects users’ preferences.
-  * Advisor: [Professor Xiaoling Lu](http://stat.ruc.edu.cn/Home/People/Faculty/8e5ad6f548314fc1be75429b60164f7b.htm)
+  * Advisor: Professor [Xiaoling Lu](http://stat.ruc.edu.cn/Home/People/Faculty/8e5ad6f548314fc1be75429b60164f7b.htm)
 
 * Spring 2021 - Spring 2022: Member
-  * [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm), [School of Public Administration and Policy](http://spap.ruc.edu.cn/), Renmin University of China
+  * Gaoling School of Artificial Intelligence, Renmin University of China
   * Duties included: Resolved the modality-missing issue by proposing an implicit imputation method (AIMI) with multi-modal representation learning via auto-encoding, clustering based on CPM-Net, adversarial networks and a feedback loop.
-  * Advisors: [Professor Hongteng Xu](https://hongtengxu.github.io/), [Professor Hailun Liang](https://scholar.google.com/citations?user=G1iOLJQAAAAJ&hl=en)
+  * Advisors: Professor [Hongteng Xu](https://hongtengxu.github.io/), Professor [Hailun Liang](https://scholar.google.com/citations?user=G1iOLJQAAAAJ&hl=en)
   
 <!-- Projects
 ======
