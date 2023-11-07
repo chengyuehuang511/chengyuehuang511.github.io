@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Machine Learning, Georgia Institute of Technology, 2023 - Present
-  * Advised by Professor [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/)
+  * Advisor: Professor [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/)
 * B.S. in Statistics, Renmin University of China, 2019 - 2023
 
 Internships
