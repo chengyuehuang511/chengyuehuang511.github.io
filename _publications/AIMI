@@ -1,7 +1,7 @@
 ---
 title: " Adversarial and Implicit Modality Imputation with Applications to Depression Early Detection"
 collection: publications
-permalink: /publication/AIMI-camera-ready
+permalink: /publication/AIMI
 excerpt: 'This paper is about Adversarial and Implicit Modality Imputation with multi-modal representation learning via auto-encoding, clustering based on CPM-Net, adversarial networks and a feedback loop to resolve the modality-missing issue with application to UK Biobank database.'
 date: 2022-08-15
 venue: 'CAAI International Conference on Artificial Intelligence (CICAI)'
