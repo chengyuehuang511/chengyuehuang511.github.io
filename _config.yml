@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chengyue's homepage"
 title_separator          : "-"
 name                     : &name "Chengyue Huang"
-description              : &description "Undergraduate majoring in statistics at Renmin University of China"
+description              : &description "ML PhD student @ Georgia Tech"
 url                      : https://chengyuehuang511.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chengyuehuang511/chengyuehuang511.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chengyue (Grace) Huang"
+  name             : "Chengyue Huang"
   avatar           : "profile.png"
-  bio              : "Undergraduate majoring in statistics at Renmin University of China"
-  location         : "Beijing, China"
+  bio              : "ML PhD student @ Georgia Tech"
+  location         : "Atlanta, Georgia, USA"
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=nv4TcI8AAAAJ&hl=en&oi=ao"
-  email            : "graceyue@ruc.edu.cn"
+  email            : "chuang475@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://cn.linkedin.com/in/chengyue-huang-07b8b4253"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "chengyue_huang"
   vine             :
   weibo            :
   xing             :
