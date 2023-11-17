@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Chengyue's homepage"
+title: "Chengyue Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
