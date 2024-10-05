@@ -27,7 +27,7 @@ Internships
 Research Experience
 ======
 * 08/2023 - Present: Graduate Research Assistant
-  * Duties included: Led the project of "Robust Fine-Tuning of Vision Language Foundation Models".
+  * Duties included: Led the project "Robust Fine-Tuning of Vision Language Foundation Models".
   * Advisor: Professor [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/)
 
 * 06/2022 - 09/2022: Remote Research Assistant
