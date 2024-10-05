@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Robotics Perception and Learning Lab (RIPL) at Georgia Institute of Technology advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Previously, I was fortunate to work with Prof. [Hongteng Xu](https://hongtengxu.github.io/) in Structured Data Science Lab (SDSL) at Renmin University of China. My research interests are in the areas of machine learning and computer vision. I currently work on enhancing the adaptability and generalization capabilities of foundation models.
+I am a second-year Ph.D. student in the Robotics Perception and Learning Lab (RIPL) at Georgia Institute of Technology advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Previously, I was fortunate to work with Prof. [Hongteng Xu](https://hongtengxu.github.io/) in Structured Data Science Lab (SDSL) at Renmin University of China. My research interests are in the areas of machine learning and computer vision. I currently work on enhancing the adaptability and generalizability of foundation models, with a specific focus on vision-language models.
 
 News
 ======
+- Our paper "Rethinking Weight Decay for Robust Fine-Tuning of Foundation Models" was accepted by NeurIPS 2024.
 - I joined Georgia Institute of Technology for the Machine Learning PhD Program!
 - I graduated from the School of Statistics at Renmin University of China with a Bachelor’s degree in Science!
 - I became a research intern at Microsoft Research AI4Science.
