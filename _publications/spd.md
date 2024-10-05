@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/spd
 excerpt: 'This paper introduces Selective Projection Decay (SPD), a weight decay technique that selectively regularizes certain layers to balance fitting and retaining pre-trained knowledge, improving generalization and robustness when fine-tuning foundation models.'
 date: 2024-09-25
-venue: 'NeurIPS 2024'
+venue: 'NeurIPS'
 paperurl: 'https://openreview.net/forum?id=4neqdBz8eG'
 ---
 ![An illustration of PowerEmbed method.](/images/spd.png)
