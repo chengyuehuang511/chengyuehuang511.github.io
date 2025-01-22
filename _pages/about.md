@@ -12,6 +12,7 @@ I am a second-year Ph.D. student in the Robotics Perception and Learning Lab (RI
 
 News
 ======
+- Our paper "Directional Gradient Projection for Robust Fine-tuning of Foundation Models" was accepted by ICLR 2025!
 - Our paper "Rethinking Weight Decay for Robust Fine-Tuning of Foundation Models" was accepted by NeurIPS 2024.
 - I joined Georgia Institute of Technology for the Machine Learning PhD Program!
 - I graduated from the School of Statistics at Renmin University of China with a Bachelor’s degree in Science!
