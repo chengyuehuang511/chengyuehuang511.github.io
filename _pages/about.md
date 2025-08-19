@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. Candidate in the Robotics Perception and Learning Lab (RIPL) at Georgia Institute of Technology advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Previously, I was fortunate to work with Prof. [Hongteng Xu](https://hongtengxu.github.io/) in Structured Data Science Lab (SDSL) at Renmin University of China. My research interests are in the areas of machine learning and computer vision. I currently work on enhancing the robustness and generalizability of foundation models, with a specific focus on vision-language models.
+I am a third-year Ph.D. Candidate in the Robotics Perception and Learning Lab (RIPL) at Georgia Institute of Technology advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Previously, I was fortunate to work with Prof. [Hongteng Xu](https://hongtengxu.github.io/) in Structured Data Science Lab (SDSL) at Renmin University of China. My research aims to improve the generalizability of foundation models, especially vision–language models. I am particularly interested in robust fine-tuning, reasoning, and vision–language–action models.
 
 News
 ======
