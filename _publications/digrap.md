@@ -5,7 +5,7 @@ permalink: /publications/digrap
 excerpt: 'This paper introduces Directional Gradient Projection (DiGraP), a novel layer-wise trainable method that incorporates directional information from gradients to bridge regularization and multi-objective optimization. Besides demonstrating our method on image classification, as another contribution we generalize this area to the multi-modal evaluation settings for robust fine-tuning.'
 date: 2025-01-22
 venue: 'ICLR'
-paperurl: 'https://openreview.net/forum?id=goBaGHLAdP'
+paperurl: 'https://arxiv.org/abs/2502.15895'
 ---
 ![An illustration of DiGraP method.](/images/digrap.png)
 
