@@ -16,6 +16,6 @@ News
 - [2025.06] [Mimicking or Reasoning](https://arxiv.org/abs/2506.07936) was featured on YouTube by [Discover AI](https://www.youtube.com/watch?v=VFcEanEAXJM)!
 - [2025.04] I received the CVPR 2025 Travel Support Award, thanks! See you in Nashville!
 - [2025.04] I passed my Qualifying Exam and officially become a Ph.D. Candidate!
-- [2025.02] Our paper "FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering" was accepted by CVPR 2025!
-- [2025.01] Our paper "Directional Gradient Projection for Robust Fine-tuning of Foundation Models" was accepted by ICLR 2025!
+- [2025.02] [FRAMES-VQA](https://arxiv.org/abs/2505.21755) was accepted by CVPR 2025!
+- [2025.01] [DiGraP](https://arxiv.org/abs/2502.15895) was accepted by ICLR 2025!
 - [2023.08] I joined Georgia Institute of Technology for the Machine Learning PhD Program!
