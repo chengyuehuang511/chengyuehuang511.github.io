@@ -12,6 +12,7 @@ I am a third-year Ph.D. Candidate in the Robotics Perception and Learning Lab (R
 
 News
 ======
+- [2026.03] Selected as Finalist of the 2026 [Qualcomm Innovation Fellowship (North America)](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america)!
 - [2026.02] [MAPS](https://arxiv.org/abs/2511.19878) was accepted to CVPR 2026! See you in Denver!
 - [2025.06] [Mimicking or Reasoning](https://arxiv.org/abs/2506.07936) was featured on YouTube by [Discover AI](https://www.youtube.com/watch?v=VFcEanEAXJM)!
 - [2025.04] I received the CVPR 2025 Travel Support Award, thanks! See you in Nashville!
