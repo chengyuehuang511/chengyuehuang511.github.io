@@ -6,6 +6,9 @@ excerpt: 'We introduce FRAMES-VQA, a benchmark designed to evaluate robust fine-
 date: 2025-02-26
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/abs/2505.21755'
+authors: 'Chengyue Huang, Brisa Maneechotesuwan, Shivang Chopra, Zsolt Kira'
+header:
+  teaser: vqa_pics.png
 ---
 ![An illustration of FRAMES-VQA method.](/images/vqa_pics.png)
 

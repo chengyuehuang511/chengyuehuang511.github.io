@@ -6,6 +6,9 @@ excerpt: 'This paper is about Adversarial and Implicit Modality Imputation with 
 date: 2022-08-15
 venue: 'CAAI International Conference on Artificial Intelligence (CICAI)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-20500-2_19'
+authors: 'Yuzhou Nie*, Chengyue Huang*, Hailun Liang, Hongteng Xu'
+header:
+  teaser: AIMI_pic.png
 ---
 ![An illustration of our AIMI method.](/images/AIMI_pic.png)
 

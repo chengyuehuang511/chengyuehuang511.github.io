@@ -6,6 +6,9 @@ excerpt: 'Vision-language models (VLMs) are widely assumed to exhibit in-context
 date: 2025-06-09
 venue: 'ICCV-W'
 paperurl: 'https://arxiv.org/abs/2506.07936'
+authors: 'Chengyue Huang, Yuchen Zhu, Sichen Zhu, Jingyun Xiao, Moises Andrade, Shivang Chopra, Zsolt Kira'
+header:
+  teaser: mimicking.jpg
 ---
 ![An illustration of Mimicking method.](/images/mimicking.jpg)
 

@@ -6,6 +6,9 @@ excerpt: 'This paper is about mitigating over-smoothing and over-squashing issue
 date: 2022-09-24
 venue: 'NeurIPS GLFrontiers Workshop'
 paperurl: 'https://openreview.net/forum?id=DhICIwGint_'
+authors: 'Ningyuan Huang, Soledad Villar, Carey E. Priebe, Da Zheng, Chengyue Huang, Lin Yang, Vladimir Braverman'
+header:
+  teaser: power_sign_pic.png
 ---
 ![An illustration of PowerEmbed method.](/images/power_sign_pic.png)
 

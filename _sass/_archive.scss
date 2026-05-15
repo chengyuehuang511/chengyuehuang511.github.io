@@ -86,6 +86,83 @@
 
 
 /*
+   Publication rows
+   ========================================================================== */
+
+.publication-list {
+  margin-top: 1.5em;
+}
+
+.publication-row {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: 1.25em;
+  align-items: start;
+  margin-bottom: 1.8em;
+}
+
+.publication-row__teaser {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  background: $code-background-color;
+}
+
+.publication-row__teaser img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.publication-row__title {
+  margin: 0 0 0.35em;
+  font-size: $type-size-5;
+  line-height: 1.35;
+  font-family: $sans-serif;
+  font-weight: 700;
+}
+
+.publication-row__authors,
+.publication-row__venue,
+.publication-row__links {
+  margin: 0.25em 0;
+  font-size: 0.9em;
+  line-height: 1.45;
+}
+
+.publication-row__authors {
+  color: $text-color;
+}
+
+.publication-row__venue {
+  color: $gray;
+}
+
+.publication-row__links a {
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+.publication-row__links a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: $small) {
+  .publication-row {
+    grid-template-columns: 1fr;
+    gap: 0.75em;
+  }
+
+  .publication-row__teaser {
+    max-width: 360px;
+  }
+}
+
+
+/*
    List view
    ========================================================================== */
 

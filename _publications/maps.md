@@ -6,6 +6,9 @@ excerpt: 'This paper introduces MAPS, a parameter-free, module-wise proximity sc
 date: 2025-11-25
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2511.19878'
+authors: 'Chengyue Huang, Mellon M. Zhang, Robert Azarcon, Glen Chou, Zsolt Kira'
+header:
+  teaser: maps.png
 ---
 ![An illustration of MAPS method.](/images/maps.png)
 
