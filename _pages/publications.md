@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: false
+wide_archive: true
 ---
 
 {% include base_path %}

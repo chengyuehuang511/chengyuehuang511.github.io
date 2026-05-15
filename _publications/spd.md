@@ -6,7 +6,7 @@ excerpt: 'This paper introduces Selective Projection Decay (SPD), a weight decay
 date: 2024-09-25
 venue: 'NeurIPS'
 paperurl: 'https://openreview.net/forum?id=4neqdBz8eG'
-authors: 'Junjiao Tian, Chengyue Huang, Zsolt Kira'
+authors: 'Junjiao Tian, <strong>Chengyue Huang</strong>, Zsolt Kira'
 header:
   teaser: spd.png
 ---

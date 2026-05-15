@@ -25,7 +25,7 @@
 
     <p class="publication-row__venue">
       {% if post.venue %}{{ post.venue }}{% endif %}
-      {% if post.date %}{% if post.venue %}, {% endif %}{{ post.date | date: "%Y" }}{% endif %}
+      {% if post.date %}{% if post.venue %} {% endif %}{{ post.date | date: "%Y" }}{% endif %}
     </p>
 
     {% if post.paperurl %}

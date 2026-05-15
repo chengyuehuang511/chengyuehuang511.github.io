@@ -3,10 +3,10 @@ title: "MAPS: Preserving Vision-Language Representations via Module-Wise Proximi
 collection: publications
 permalink: /publications/maps
 excerpt: 'This paper introduces MAPS, a parameter-free, module-wise proximity scheduling framework that preserves pretrained VLM priors while selectively adapting action-oriented layers, enabling robust VLA fine-tuning and delivering large generalization gains across diverse simulation and real-world benchmarks.'
-date: 2025-11-25
-venue: 'arXiv'
+date: 2026-02-01
+venue: 'CVPR'
 paperurl: 'https://arxiv.org/abs/2511.19878'
-authors: 'Chengyue Huang, Mellon M. Zhang, Robert Azarcon, Glen Chou, Zsolt Kira'
+authors: '<strong>Chengyue Huang*</strong>, Mellon M. Zhang*, Robert Azarcon, Glen Chou, Zsolt Kira'
 header:
   teaser: maps.png
 ---

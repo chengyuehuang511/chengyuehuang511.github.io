@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/powerembed
 excerpt: 'This paper is about mitigating over-smoothing and over-squashing issues in deep GNNs by proposing a normalization technique in message-passing algorithms (PowerEmbed) to encode global spectra information inspired by spectral embeddings.'
 date: 2022-09-24
-venue: 'NeurIPS GLFrontiers Workshop'
+venue: 'NeurIPS-W'
 paperurl: 'https://openreview.net/forum?id=DhICIwGint_'
-authors: 'Ningyuan Huang, Soledad Villar, Carey E. Priebe, Da Zheng, Chengyue Huang, Lin Yang, Vladimir Braverman'
+authors: 'Ningyuan Huang, Soledad Villar, Carey E. Priebe, Da Zheng, <strong>Chengyue Huang</strong>, Lin Yang, Vladimir Braverman'
 header:
   teaser: power_sign_pic.png
 ---

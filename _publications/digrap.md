@@ -6,7 +6,7 @@ excerpt: 'This paper introduces Directional Gradient Projection (DiGraP), a nove
 date: 2025-01-22
 venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2502.15895'
-authors: 'Chengyue Huang, Junjiao Tian, Brisa Maneechotesuwan, Shivang Chopra, Zsolt Kira'
+authors: '<strong>Chengyue Huang</strong>, Junjiao Tian, Brisa Maneechotesuwan, Shivang Chopra, Zsolt Kira'
 header:
   teaser: digrap.png
 ---
