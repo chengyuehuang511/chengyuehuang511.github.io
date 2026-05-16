@@ -5,9 +5,9 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I am a third-year Ph.D. Student in the Robotics Perception and Learning Lab (RIPL) at <img src="{{ 'images/gt.png' | relative_url }}" alt="Georgia Tech logo" class="logo"> [Georgia Tech](https://ml.gatech.edu/), advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My research aims to improve the generalizability of foundation models, especially vision–language models (VLMs). I am particularly interested in robust fine-tuning, reasoning, VLM-as-judge and vision–language–action models (VLAs).
+I am a third-year Ph.D. Student in the Robotics Perception and Learning Lab (RIPL) at <img src="{{ 'images/gt.png' | relative_url }}" alt="Georgia Tech logo" class="logo"> [Georgia Tech](https://ml.gatech.edu/), advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My research aims to improve the generalizability of foundation models, especially Vision–Language Models (VLMs). I am particularly interested in robust fine-tuning, reasoning, VLM-as-Judge and Vision–Language–Action Models (VLAs).
 
-During Summer 2026, I am a Research Scientist Intern at <img src="{{ 'images/adobe.png' | relative_url }}" alt="Adobe logo" class="logo"> [Adobe Research](https://research.adobe.com/), working with Dr. [Kushal Kafle](https://research.adobe.com/person/kushal-kafle/) on VLM-as-judge.
+During Summer 2026, I am a Research Scientist Intern at <img src="{{ 'images/adobe.png' | relative_url }}" alt="Adobe logo" class="logo"> [Adobe Research](https://research.adobe.com/), working with Dr. [Kushal Kafle](https://research.adobe.com/person/kushal-kafle/) on VLM-as-Judge.
 
 During Spring and Summer 2023, I was a Research Scientist Intern at <img src="{{ 'images/microsoft.png' | relative_url }}" alt="Microsoft logo" class="logo"> [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working on AI4Science.
 
@@ -19,7 +19,7 @@ News
 ======
 <div class="news-scroll" markdown="1">
 
-- [2026.05] I will be joining <img src="{{ 'images/adobe.png' | relative_url }}" alt="Adobe logo" class="logo"> [Adobe Research](https://research.adobe.com/) as a Research Scientist Intern, working with Dr. [Kushal Kafle](https://research.adobe.com/person/kushal-kafle/) on VLM-as-judge! See you in Bay Area!
+- [2026.05] I will be joining <img src="{{ 'images/adobe.png' | relative_url }}" alt="Adobe logo" class="logo"> [Adobe Research](https://research.adobe.com/) as a Research Scientist Intern, working with Dr. [Kushal Kafle](https://research.adobe.com/person/kushal-kafle/) on VLM-as-Judge! See you in Bay Area!
 - [2026.05] [SafeManip](https://arxiv.org/abs/2605.12386) is online! The first property-driven benchmark for temporal safety evaluation in robotic manipulation.
 - [2026.03] Selected as a [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america) Finalist with my amazing teammate [Mellon Zhang](https://meilongzhang.github.io)!
 - [2026.02] [MAPS](https://arxiv.org/abs/2511.19878) was accepted to CVPR 2026! See you in Denver!
