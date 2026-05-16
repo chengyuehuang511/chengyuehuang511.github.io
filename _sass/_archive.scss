@@ -182,6 +182,11 @@
   font-weight: 700;
 }
 
+.page__content .publication-row__title {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
 .publication-row__authors,
 .publication-row__venue,
 .publication-row__links {
