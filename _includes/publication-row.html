@@ -27,6 +27,7 @@
     <p class="publication-row__venue">
       {% if publication.venue %}{{ publication.venue }}{% endif %}
       {% if publication.date %}{% if publication.venue %} {% endif %}{{ publication.date | date: "%Y" }}{% endif %}
+      {% if publication.award %}, <span class="publication-row__award">{{ publication.award }}</span>{% endif %}
     </p>
 
     {% if publication.paperurl %}
