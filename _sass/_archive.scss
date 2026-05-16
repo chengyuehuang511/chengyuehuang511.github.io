@@ -105,6 +105,30 @@
   margin-top: 1.2em;
 }
 
+.selected-publications .publication-row {
+  gap: 1em;
+  margin-bottom: 1.2em;
+}
+
+.selected-publications .publication-row__teaser {
+  flex-basis: 150px;
+  width: 150px;
+  height: 94px;
+}
+
+.selected-publications .publication-row__title {
+  margin-bottom: 0.2em;
+  font-size: 0.95em;
+}
+
+.selected-publications .publication-row__authors,
+.selected-publications .publication-row__venue,
+.selected-publications .publication-row__links {
+  margin: 0.15em 0;
+  font-size: 0.85em;
+  line-height: 1.35;
+}
+
 .publication-year {
   margin: 1.4em 0 0.8em;
   padding-bottom: 0.25em;
@@ -193,6 +217,11 @@
     aspect-ratio: 16 / 10;
     max-width: 360px;
     margin-bottom: 0.75em;
+  }
+
+  .selected-publications .publication-row__teaser {
+    width: 100%;
+    max-width: 320px;
   }
 }
 

@@ -8,10 +8,10 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2605.12386'
 authors: '<strong>Chengyue Huang*</strong>, Khang Vo Huynh*, Sebastian Elbaum, Zsolt Kira, Lu Feng'
 header:
-  teaser: safari-pinned-tab.svg
+  teaser: SafeManip-teaser.png
 ---
 
-![SafeManip teaser.](/images/safari-pinned-tab.svg)
+![SafeManip teaser.](/images/SafeManip-teaser.png)
 
 Robotic manipulation is typically evaluated by task success, but successful completion does not guarantee safe execution. SafeManip is a property-driven benchmark for explicitly evaluating temporal safety properties in robotic manipulation using Linear Temporal Logic over finite traces.
 
