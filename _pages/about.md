@@ -13,8 +13,12 @@ During Spring and Summer 2023, I was a Research Scientist Intern at <img src="{{
 
 I graduated with BS in Statistics from <img src="{{ 'images/RUC.png' | relative_url }}" alt="RUC logo" class="logo"> [Renmin University of China](https://en.ruc.edu.cn). I was fortunate to work with Prof. [Hongteng Xu](https://hongtengxu.github.io/) in Structured Data Science Lab (SDSL).
 
+You can find more details in my CV [here](https://drive.google.com/file/d/1FvLzf8ghS49VAfbjvkSiykhuq9hJTpna/view?usp=share_link).
+
 News
 ======
+<div class="news-scroll" markdown="1">
+
 - [2026.05] I will be joining <img src="{{ 'images/adobe.png' | relative_url }}" alt="Adobe logo" class="logo"> [Adobe Research](https://research.adobe.com/) as a Research Scientist Intern, working with Dr. [Kushal Kafle](https://research.adobe.com/person/kushal-kafle/) on VLM-as-judge! See you in Bay Area!
 - [2026.05] [SafeManip](https://arxiv.org/abs/2605.12386) is online! The first property-driven benchmark for temporal safety evaluation in robotic manipulation.
 - [2026.03] Selected as a [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america) Finalist with my amazing teammate [Mellon Zhang](https://meilongzhang.github.io)!
@@ -25,3 +29,18 @@ News
 - [2025.02] [FRAMES-VQA](https://arxiv.org/abs/2505.21755) was accepted to CVPR 2025!
 - [2025.01] [DiGraP](https://arxiv.org/abs/2502.15895) was accepted to ICLR 2025!
 - [2023.08] I joined Georgia Institute of Technology for the Machine Learning PhD Program!
+
+</div>
+
+Selected Publications
+======
+<div class="selected-publications">
+  {% assign selected_publications = "safemanip,maps,frames_vqa,digrap" | split: "," %}
+  {% for selected_slug in selected_publications %}
+    {% assign selected_path = "/publications/" | append: selected_slug %}
+    {% assign selected_post = site.publications | where: "permalink", selected_path | first %}
+    {% if selected_post %}
+      {% include publication-row.html post=selected_post %}
+    {% endif %}
+  {% endfor %}
+</div>

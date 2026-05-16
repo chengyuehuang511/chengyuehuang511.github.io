@@ -1,7 +1,8 @@
 {% include base_path %}
+{% assign publication = include.post | default: post %}
 
-{% if post.header.teaser %}
-  {% assign teaser = post.header.teaser %}
+{% if publication.header.teaser %}
+  {% assign teaser = publication.header.teaser %}
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
@@ -17,20 +18,20 @@
   {% endif %}
 
   <div class="publication-row__body">
-    <h2 class="publication-row__title" itemprop="headline">{{ post.title }}</h2>
+    <h2 class="publication-row__title" itemprop="headline">{{ publication.title }}</h2>
 
-    {% if post.authors %}
-      <p class="publication-row__authors" itemprop="author">{{ post.authors }}</p>
+    {% if publication.authors %}
+      <p class="publication-row__authors" itemprop="author">{{ publication.authors }}</p>
     {% endif %}
 
     <p class="publication-row__venue">
-      {% if post.venue %}{{ post.venue }}{% endif %}
-      {% if post.date %}{% if post.venue %} {% endif %}{{ post.date | date: "%Y" }}{% endif %}
+      {% if publication.venue %}{{ publication.venue }}{% endif %}
+      {% if publication.date %}{% if publication.venue %} {% endif %}{{ publication.date | date: "%Y" }}{% endif %}
     </p>
 
-    {% if post.paperurl %}
+    {% if publication.paperurl %}
       <p class="publication-row__links">
-        <a href="{{ post.paperurl }}">Paper</a>
+        <a href="{{ publication.paperurl }}">Paper</a>
       </p>
     {% endif %}
   </div>

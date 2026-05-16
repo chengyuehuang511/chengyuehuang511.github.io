@@ -101,6 +101,24 @@
   margin-top: 1.5em;
 }
 
+.selected-publications {
+  margin-top: 1.2em;
+}
+
+.publication-year {
+  margin: 1.4em 0 0.8em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid $border-color;
+  color: $dark-gray;
+  font-family: $sans-serif;
+  font-size: $type-size-4;
+  font-weight: 700;
+}
+
+.publication-year:first-child {
+  margin-top: 0;
+}
+
 .publication-row {
   display: flex;
   gap: 1.35em;
