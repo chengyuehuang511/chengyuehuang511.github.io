@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I am a third-year Ph.D. Student in the Robotics Perception and Learning Lab (RIPL) at <img src="{{ 'images/gt.png' | relative_url }}" alt="Georgia Tech logo" class="logo"> [Georgia Tech](https://ml.gatech.edu/), advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My research aims to improve the generalizability of foundation models, especially Vision–Language Models (VLMs). I am particularly interested in robust fine-tuning, reasoning, VLM-as-Judge and Vision–Language–Action Models (VLAs).
+I am a fourth-year Ph.D. Student in the Robotics Perception and Learning Lab (RIPL) at <img src="{{ 'images/gt.png' | relative_url }}" alt="Georgia Tech logo" class="logo"> [Georgia Tech](https://ml.gatech.edu/), advised by Prof. [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My research aims to improve the generalizability of foundation models, especially Vision–Language Models (VLMs). I am particularly interested in robust fine-tuning, reasoning, VLM-as-Judge and Vision–Language–Action Models (VLAs).
 
 During Summer 2026, I am a Research Scientist Intern at <img src="{{ 'images/adobe.png' | relative_url }}" alt="Adobe logo" class="logo"> [Adobe Research](https://research.adobe.com/), working with Dr. [Kushal Kafle](https://research.adobe.com/person/kushal-kafle/) on VLM-as-Judge.
 
